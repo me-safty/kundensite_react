@@ -1,2 +1,2 @@
 # kundensite_react
-React project for dualne.ch
+React project for dualnet.ch
